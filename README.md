@@ -2,7 +2,7 @@
 
 <img width="1119" alt="Screenshot 2022-08-22 at 11 27 17 AM" src="https://user-images.githubusercontent.com/96412583/185849339-00c19d1a-9665-44fa-94af-17d72fc521ab.png">
 
-This is my Pre-final year subject. The programs which I would be practising would be documented in this Repo.
+This is my Pre-final year subject. The programs which I would be practising has been documented in this Repo.
 
 | Exp no.   | LIST OF EXPERIMENT |
 | :-------- | :-------- |

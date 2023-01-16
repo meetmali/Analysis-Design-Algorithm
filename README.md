@@ -1,4 +1,4 @@
-# Analysis-Design-Algorithms
+# Analysis-Design-Algorithm
 
 <img width="1119" alt="Screenshot 2022-08-22 at 11 27 17 AM" src="https://user-images.githubusercontent.com/96412583/185849339-00c19d1a-9665-44fa-94af-17d72fc521ab.png">
 

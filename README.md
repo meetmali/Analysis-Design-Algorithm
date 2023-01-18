@@ -17,4 +17,4 @@ This is my Pre-final year subject. The data structure programs which I would be 
 | 9         | `WAP to implement DFS and BFS traversal in graphs`   |
 | 10        | `WAP to implement 0/1 Knapsack using Dynamic Programming`   |
 | 11        | `WAP to implement Sum of Subset Problem using Backtracking`   |
-| 12        | `WAP to implement N-Queen Problem using Backtracking`   |
+| 12        | `WAP to implement N-Queen Problems using Backtracking`   |
